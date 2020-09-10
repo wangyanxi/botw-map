@@ -1,0 +1,1082 @@
+[
+    {
+        "title_eng": "Shoqa Tatone Shrine",
+        "title_chs": "希·塔塔恩科神庙",
+        "id": "Dungeon080",
+        "coordinate": [
+            94.99838256835938,
+            3840.94287109375
+        ]
+    },
+    {
+        "title_eng": "Misae Suma Shrine",
+        "title_chs": "密·苏神庙",
+        "id": "Dungeon107",
+        "coordinate": [
+            -2969.800048828125,
+            3780.634033203125
+        ]
+    },
+    {
+        "title_eng": "Hawa Koth Shrine",
+        "title_chs": "哈瓦·卡伊神庙",
+        "id": "Dungeon003",
+        "coordinate": [
+            -4847.43359375,
+            3773.547607421875
+        ]
+    },
+    {
+        "title_eng": "Korgu Chideh Shrine",
+        "title_chs": "库古·齐德神庙",
+        "id": "Dungeon097",
+        "coordinate": [
+            4736.6181640625,
+            3771.591796875
+        ]
+    },
+    {
+        "title_eng": "Suma Sahma Shrine",
+        "title_chs": "斯玛·萨玛神庙",
+        "id": "Dungeon090",
+        "coordinate": [
+            -1417.77734375,
+            3449.206298828125
+        ]
+    },
+    {
+        "title_eng": "Ka'o Makagh Shrine",
+        "title_chs": "卡奥·玛卡神庙",
+        "id": "Dungeon054",
+        "coordinate": [
+            522.9542236328125,
+            3525.324462890625
+        ]
+    },
+    {
+        "title_eng": "Dila Maag Shrine",
+        "title_chs": "迪拉·玛神庙",
+        "id": "Dungeon103",
+        "coordinate": [
+            -1795.0001220703125,
+            3464.390625
+        ]
+    },
+    {
+        "title_eng": "Ishto Soh Shrine",
+        "title_chs": "伊奥·索奥神庙",
+        "id": "Dungeon069",
+        "coordinate": [
+            -985.7890625,
+            3564.978271484375
+        ]
+    },
+    {
+        "title_eng": "Daqo Chisay Shrine",
+        "title_chs": "古科·齐塞神庙",
+        "id": "Dungeon060",
+        "coordinate": [
+            -3816.313720703125,
+            2819.1572265625
+        ]
+    },
+    {
+        "title_eng": "Kah Yah Shrine",
+        "title_chs": "玛·卡亚神庙",
+        "id": "Dungeon034",
+        "coordinate": [
+            3437.28515625,
+            3317.19580078125
+        ]
+    },
+    {
+        "title_eng": "Muwo Jeem Shrine",
+        "title_chs": "姆奥·吉姆神庙",
+        "id": "Dungeon081",
+        "coordinate": [
+            3657.1669921875,
+            3307.99267578125
+        ]
+    },
+    {
+        "title_eng": "Qukah Nata Shrine",
+        "title_chs": "丘卡·纳塔神庙",
+        "id": "Dungeon096",
+        "coordinate": [
+            2007.9007568359375,
+            3284.565673828125
+        ]
+    },
+    {
+        "title_eng": "Raqa Zunzo Shrine",
+        "title_chs": "拉丘·乌罗神庙",
+        "id": "Dungeon093",
+        "coordinate": [
+            -3809.560302734375,
+            3126.85791015625
+        ]
+    },
+    {
+        "title_eng": "Shai Utoh Shrine",
+        "title_chs": "塞伊·乌托神庙",
+        "id": "Dungeon050",
+        "coordinate": [
+            1586.375244140625,
+            3613.991943359375
+        ]
+    },
+    {
+        "title_eng": "Tho Kayu Shrine",
+        "title_chs": "托·卡尤神庙",
+        "id": "Dungeon094",
+        "coordinate": [
+            -4798.14794921875,
+            2800.031005859375
+        ]
+    },
+    {
+        "title_eng": "Yah Rin Shrine",
+        "title_chs": "亚奥·玛耀神庙",
+        "id": "Dungeon006",
+        "coordinate": [
+            2833.532958984375,
+            3311.9580078125
+        ]
+    },
+    {
+        "title_eng": "Chaas Qeta Shrine",
+        "title_chs": "洽斯·科塔神庙",
+        "id": "Dungeon082",
+        "coordinate": [
+            4011.4833984375,
+            2989.83056640625
+        ]
+    },
+    {
+        "title_eng": "Dako Tah Shrine",
+        "title_chs": "达科·塔瓦神庙",
+        "id": "Dungeon032",
+        "coordinate": [
+            -3316.80224609375,
+            2162.678955078125
+        ]
+    },
+    {
+        "title_eng": "Korsh O'hu Shrine",
+        "title_chs": "裘希·奥神庙",
+        "id": "Dungeon110",
+        "coordinate": [
+            -2689.30712890625,
+            2811.9072265625
+        ]
+    },
+    {
+        "title_eng": "Pumaag Nitae Shrine",
+        "title_chs": "普玛·尼特神庙",
+        "id": "Dungeon071",
+        "coordinate": [
+            559.364013671875,
+            2991.17822265625
+        ]
+    },
+    {
+        "title_eng": "Shoda Sah Shrine",
+        "title_chs": "晓达·萨神庙",
+        "id": "Dungeon061",
+        "coordinate": [
+            1790.25732421875,
+            2992.8642578125
+        ]
+    },
+    {
+        "title_eng": "Kay Noh Shrine",
+        "title_chs": "克·诺伊神庙",
+        "id": "Dungeon010",
+        "coordinate": [
+            -2809.968017578125,
+            2300.1767578125
+        ]
+    },
+    {
+        "title_eng": "Jee Noh Shrine",
+        "title_chs": "吉诺·耀神庙",
+        "id": "Dungeon001",
+        "coordinate": [
+            -1793.2548828125,
+            2422.486328125
+        ]
+    },
+    {
+        "title_eng": "Owa Daim Shrine",
+        "title_chs": "瓦·摩达伊神庙",
+        "id": "Dungeon009",
+        "coordinate": [
+            -925.0302734375,
+            2320.229248046875
+        ]
+    },
+    {
+        "title_eng": "Shae Katha Shrine",
+        "title_chs": "希·库乔夫神庙",
+        "id": "Dungeon113",
+        "coordinate": [
+            870.4946899414062,
+            2329.5283203125
+        ]
+    },
+    {
+        "title_eng": "Toto Sah Shrine",
+        "title_chs": "托托·伊萨神庙",
+        "id": "Dungeon015",
+        "coordinate": [
+            1846.561279296875,
+            2473.725830078125
+        ]
+    },
+    {
+        "title_eng": "Tawa Jinn Shrine",
+        "title_chs": "塔瓦·吉努神庙",
+        "id": "Dungeon111",
+        "coordinate": [
+            2636.69091796875,
+            2833.853759765625
+        ]
+    },
+    {
+        "title_eng": "Myahm Agana Shrine",
+        "title_chs": "米亚马·迦纳神庙",
+        "id": "Dungeon039",
+        "coordinate": [
+            3387.706787109375,
+            2215.13037109375
+        ]
+    },
+    {
+        "title_eng": "Kema Zoos Shrine",
+        "title_chs": "基码·兹斯神庙",
+        "id": "Dungeon063",
+        "coordinate": [
+            -4673.52978515625,
+            1968.7900390625
+        ]
+    },
+    {
+        "title_eng": "Sasa Kai Shrine",
+        "title_chs": "萨萨·卡伊神庙",
+        "id": "Dungeon076",
+        "coordinate": [
+            -3560.287353515625,
+            1953.873291015625
+        ]
+    },
+    {
+        "title_eng": "Ja Baij Shrine",
+        "title_chs": "加·巴希夫神庙",
+        "id": "Dungeon041",
+        "coordinate": [
+            -447.69512939453125,
+            1990.182373046875
+        ]
+    },
+    {
+        "title_eng": "Shee Vaneer Shrine",
+        "title_chs": "希贝·尼罗神庙",
+        "id": "Dungeon017",
+        "coordinate": [
+            1266.2686767578125,
+            1938.69970703125
+        ]
+    },
+    {
+        "title_eng": "Shee Venath Shrine",
+        "title_chs": "希贝·尼亚斯神庙",
+        "id": "Dungeon044",
+        "coordinate": [
+            1245.1182861328125,
+            1850.44091796875
+        ]
+    },
+    {
+        "title_eng": "Ree Dahee Shrine",
+        "title_chs": "利·达席神庙",
+        "id": "Dungeon047",
+        "coordinate": [
+            1272.9166259765625,
+            1843.90966796875
+        ]
+    },
+    {
+        "title_eng": "Sho Dantu Shrine",
+        "title_chs": "希·基托神庙",
+        "id": "Dungeon036",
+        "coordinate": [
+            -3910.61279296875,
+            1653.031005859375
+        ]
+    },
+    {
+        "title_eng": "Dah Kaso Shrine",
+        "title_chs": "达·卡索神庙",
+        "id": "Dungeon072",
+        "coordinate": [
+            -1695.713623046875,
+            1701.0263671875
+        ]
+    },
+    {
+        "title_eng": "Joloo Nah Shrine",
+        "title_chs": "究尼·希神庙",
+        "id": "Dungeon030",
+        "coordinate": [
+            -2004.00830078125,
+            1675.2626953125
+        ]
+    },
+    {
+        "title_eng": "Ya Naga Shrine",
+        "title_chs": "亚·纳迦神庙",
+        "id": "Dungeon068",
+        "coordinate": [
+            -329.16656494140625,
+            2600.119384765625
+        ]
+    },
+    {
+        "title_eng": "Keh Namut Shrine",
+        "title_chs": "图米·恩科神庙",
+        "id": "Dungeon065",
+        "coordinate": [
+            -1435.3870849609375,
+            1990.705810546875
+        ]
+    },
+    {
+        "title_eng": "Ha Dahamar Shrine",
+        "title_chs": "哈尤·达玛神庙",
+        "id": "Dungeon045",
+        "coordinate": [
+            1662.9674072265625,
+            1922.3955078125
+        ]
+    },
+    {
+        "title_eng": "Bosh Kala Shrine",
+        "title_chs": "瓦希·辽科神庙",
+        "id": "Dungeon007",
+        "coordinate": [
+            87.01651000976562,
+            1657.70556640625
+        ]
+    },
+    {
+        "title_eng": "Tahno O'ah Shrine",
+        "title_chs": "塔诺·阿神庙",
+        "id": "Dungeon119",
+        "coordinate": [
+            4182.7646484375,
+            1686.558349609375
+        ]
+    },
+    {
+        "title_eng": "Oman Au Shrine",
+        "title_chs": "玛·奥努神庙",
+        "id": "Dungeon038",
+        "coordinate": [
+            -672.4623413085938,
+            1513.63037109375
+        ]
+    },
+    {
+        "title_eng": "Kuh Takkar Shrine",
+        "title_chs": "库伊·塔卡神庙",
+        "id": "Dungeon043",
+        "coordinate": [
+            -3083.613037109375,
+            1221.7900390625
+        ]
+    },
+    {
+        "title_eng": "Rota Ooh Shrine",
+        "title_chs": "鲁耀·塔乌神庙",
+        "id": "Dungeon027",
+        "coordinate": [
+            -1562.2928466796875,
+            1309.782958984375
+        ]
+    },
+    {
+        "title_eng": "Jitan Sa'mi Shrine",
+        "title_chs": "吉塔·萨米神庙",
+        "id": "Dungeon117",
+        "coordinate": [
+            3883.027587890625,
+            1315.36083984375
+        ]
+    },
+    {
+        "title_eng": "Kema Kosassa Shrine",
+        "title_chs": "基码·科萨萨神庙",
+        "id": "Dungeon085",
+        "coordinate": [
+            -4657.4931640625,
+            904.9697265625
+        ]
+    },
+    {
+        "title_eng": "Keeha Yoog Shrine",
+        "title_chs": "基哈·乌神庙",
+        "id": "Dungeon100",
+        "coordinate": [
+            -3852.460205078125,
+            716.3579711914062
+        ]
+    },
+    {
+        "title_eng": "Kaam Ya'tak Shrine",
+        "title_chs": "亚卡·玛塔神庙",
+        "id": "Dungeon040",
+        "coordinate": [
+            -967.639404296875,
+            716.8792724609375
+        ]
+    },
+    {
+        "title_eng": "Wahgo Katta Shrine",
+        "title_chs": "瓦哥·卡塔神庙",
+        "id": "Dungeon057",
+        "coordinate": [
+            345.58740234375,
+            1007.7691650390625
+        ]
+    },
+    {
+        "title_eng": "Hila Rao Shrine",
+        "title_chs": "席罗·席拉神庙",
+        "id": "Dungeon029",
+        "coordinate": [
+            854.0030517578125,
+            838.7382202148438
+        ]
+    },
+    {
+        "title_eng": "Ta'loh Naeg Shrine",
+        "title_chs": "塔罗·尼席神庙",
+        "id": "Dungeon099",
+        "coordinate": [
+            1841.2249755859375,
+            891.112548828125
+        ]
+    },
+    {
+        "title_eng": "Lakna Rokee Shrine",
+        "title_chs": "拉纳·罗基神庙",
+        "id": "Dungeon112",
+        "coordinate": [
+            2039.6334228515625,
+            971.7044067382812
+        ]
+    },
+    {
+        "title_eng": "Mijah Rokee Shrine",
+        "title_chs": "米达·罗基神庙",
+        "id": "Dungeon078",
+        "coordinate": [
+            -2743.991943359375,
+            225.74667358398438
+        ]
+    },
+    {
+        "title_eng": "Mogg Latan Shrine",
+        "title_chs": "摩·拉塔尼阿神庙",
+        "id": "Dungeon058",
+        "coordinate": [
+            -2297.783935546875,
+            461.6640930175781
+        ]
+    },
+    {
+        "title_eng": "Sheem Dagoze Shrine",
+        "title_chs": "希·达哥兹神庙",
+        "id": "Dungeon020",
+        "coordinate": [
+            -1892.4171142578125,
+            91.030517578125
+        ]
+    },
+    {
+        "title_eng": "Kaya Wan Shrine",
+        "title_chs": "卡亚·米瓦神庙",
+        "id": "Dungeon049",
+        "coordinate": [
+            825.1654052734375,
+            187.50900268554688
+        ]
+    },
+    {
+        "title_eng": "Daka Tuss Shrine",
+        "title_chs": "达塔·库斯神庙",
+        "id": "Dungeon033",
+        "coordinate": [
+            1601.8326416015625,
+            462.75384521484375
+        ]
+    },
+    {
+        "title_eng": "Rucco Maag Shrine",
+        "title_chs": "鲁克·玛神庙",
+        "id": "Dungeon016",
+        "coordinate": [
+            3333.5,
+            402.5
+        ]
+    },
+    {
+        "title_eng": "Shai Yota Shrine",
+        "title_chs": "希·尤塔神庙",
+        "id": "Dungeon114",
+        "coordinate": [
+            4245.24560546875,
+            253.9075927734375
+        ]
+    },
+    {
+        "title_eng": "Kah Okeo Shrine",
+        "title_chs": "卡·奥裘神庙",
+        "id": "Dungeon059",
+        "coordinate": [
+            -4121.39892578125,
+            -414.1998291015625
+        ]
+    },
+    {
+        "title_eng": "Tena Ko'sah Shrine",
+        "title_chs": "提纳·裘扎神庙",
+        "id": "Dungeon083",
+        "coordinate": [
+            -3466.356689453125,
+            -447.4993591308594
+        ]
+    },
+    {
+        "title_eng": "Zalta Wa Shrine",
+        "title_chs": "基瓦·扎塔斯神庙",
+        "id": "Dungeon004",
+        "coordinate": [
+            -1432.615478515625,
+            -593.2459716796875
+        ]
+    },
+    {
+        "title_eng": "Shae Loya Shrine",
+        "title_chs": "夏奥·耀神庙",
+        "id": "Dungeon037",
+        "coordinate": [
+            -2930.760498046875,
+            -433.03851318359375
+        ]
+    },
+    {
+        "title_eng": "Noya Neha Shrine",
+        "title_chs": "尼阿·奈阿神庙",
+        "id": "Dungeon074",
+        "coordinate": [
+            -952.1732788085938,
+            -623.8845825195312
+        ]
+    },
+    {
+        "title_eng": "Katah Chuki Shrine",
+        "title_chs": "卡塔·丘基神庙",
+        "id": "Dungeon073",
+        "coordinate": [
+            -636.0839233398438,
+            -344.1649169921875
+        ]
+    },
+    {
+        "title_eng": "Sheh Rata Shrine",
+        "title_chs": "协莫·拉塔神庙",
+        "id": "Dungeon023",
+        "coordinate": [
+            1509.48046875,
+            -377.2189636230469
+        ]
+    },
+    {
+        "title_eng": "Soh Kofi Shrine",
+        "title_chs": "萨奥·科席神庙",
+        "id": "Dungeon070",
+        "coordinate": [
+            2239.21337890625,
+            -292.42999267578125
+        ]
+    },
+    {
+        "title_eng": "Dagah Keek Shrine",
+        "title_chs": "达·基基神庙",
+        "id": "Dungeon101",
+        "coordinate": [
+            3148.85205078125,
+            -417.3299255371094
+        ]
+    },
+    {
+        "title_eng": "Ne'ez Yohma Shrine",
+        "title_chs": "奈兹·耀玛神庙",
+        "id": "Dungeon005",
+        "coordinate": [
+            3323.169189453125,
+            -517.9188232421875
+        ]
+    },
+    {
+        "title_eng": "Toh Yahsa Shrine",
+        "title_chs": "托·雅萨神庙",
+        "id": "Dungeon021",
+        "coordinate": [
+            -2269.10009765625,
+            -901.1000366210938
+        ]
+    },
+    {
+        "title_eng": "Mirro Shaz Shrine",
+        "title_chs": "米罗·茨席神庙",
+        "id": "Dungeon056",
+        "coordinate": [
+            1230.99658203125,
+            -1212.7283935546875
+        ]
+    },
+    {
+        "title_eng": "Saas Ko'sah Shrine",
+        "title_chs": "萨斯·科萨神庙",
+        "id": "Dungeon089",
+        "coordinate": [
+            -148.39523315429688,
+            -1159.346435546875
+        ]
+    },
+    {
+        "title_eng": "Mo'a Keet Shrine",
+        "title_chs": "摩阿·基希托神庙",
+        "id": "Dungeon031",
+        "coordinate": [
+            2723.077880859375,
+            -1165.1676025390625
+        ]
+    },
+    {
+        "title_eng": "Tah Muhl Shrine",
+        "title_chs": "塔·姆尔神庙",
+        "id": "Dungeon000",
+        "coordinate": [
+            2301.46240234375,
+            -940.7257690429688
+        ]
+    },
+    {
+        "title_eng": "Ke'nai Shakah Shrine",
+        "title_chs": "科尼·希卡神庙",
+        "id": "Dungeon077",
+        "coordinate": [
+            4194.7138671875,
+            -855.9080200195312
+        ]
+    },
+    {
+        "title_eng": "Dah Hesho Shrine",
+        "title_chs": "达席·希诺神庙",
+        "id": "Dungeon075",
+        "coordinate": [
+            3899.691162109375,
+            -1303.793701171875
+        ]
+    },
+    {
+        "title_eng": "Kah Mael Shrine",
+        "title_chs": "卡·姆神庙",
+        "id": "Dungeon066",
+        "coordinate": [
+            4708.56396484375,
+            -1309.51123046875
+        ]
+    },
+    {
+        "title_eng": "Bareeda Naag Shrine",
+        "title_chs": "沃力达·诺神庙",
+        "id": "Dungeon008",
+        "coordinate": [
+            -3608.985595703125,
+            -1516.377197265625
+        ]
+    },
+    {
+        "title_eng": "Dunba Taag Shrine",
+        "title_chs": "多恩巴·塔神庙",
+        "id": "Dungeon055",
+        "coordinate": [
+            -2832.0634765625,
+            -1577.1309814453125
+        ]
+    },
+    {
+        "title_eng": "Maag No'rah Shrine",
+        "title_chs": "玛·诺拉神庙",
+        "id": "Dungeon092",
+        "coordinate": [
+            -1940.4736328125,
+            -1459.0191650390625
+        ]
+    },
+    {
+        "title_eng": "Monya Toma Shrine",
+        "title_chs": "蒙亚·托玛神庙",
+        "id": "Dungeon011",
+        "coordinate": [
+            -1489.2401123046875,
+            -1473.80322265625
+        ]
+    },
+    {
+        "title_eng": "Qua Raym Shrine",
+        "title_chs": "丘·拉姆席神庙",
+        "id": "Dungeon067",
+        "coordinate": [
+            1820.24072265625,
+            -1517.90283203125
+        ]
+    },
+    {
+        "title_eng": "Sah Dahaj Shrine",
+        "title_chs": "萨·达究神庙",
+        "id": "Dungeon002",
+        "coordinate": [
+            2666.11962890625,
+            -1580.3284912109375
+        ]
+    },
+    {
+        "title_eng": "Akh Va'quot Shrine",
+        "title_chs": "阿科·瓦塔神庙",
+        "id": "Dungeon035",
+        "coordinate": [
+            -3656.03271484375,
+            -1757.7003173828125
+        ]
+    },
+    {
+        "title_eng": "Namika Ozz Shrine",
+        "title_chs": "纳米卡·奥兹神庙",
+        "id": "Dungeon079",
+        "coordinate": [
+            760.29052734375,
+            -821.3871459960938
+        ]
+    },
+    {
+        "title_eng": "Voo Lota Shrine",
+        "title_chs": "乌塔·多神庙",
+        "id": "Dungeon012",
+        "coordinate": [
+            -4015.362060546875,
+            -1722.4862060546875
+        ]
+    },
+    {
+        "title_eng": "Ze Kasho Shrine",
+        "title_chs": "吉兹·卡夫伊神庙",
+        "id": "Dungeon048",
+        "coordinate": [
+            3028.297607421875,
+            -1668.014892578125
+        ]
+    },
+    {
+        "title_eng": "Hia Miu Shrine",
+        "title_chs": "席亚·米乌神庙",
+        "id": "Dungeon088",
+        "coordinate": [
+            -4446.01806640625,
+            -3802.418701171875
+        ]
+    },
+    {
+        "title_eng": "Mozo Shenno Shrine",
+        "title_chs": "妙斯·希诺神庙",
+        "id": "Dungeon087",
+        "coordinate": [
+            -3626.7099609375,
+            -3038.258544921875
+        ]
+    },
+    {
+        "title_eng": "To Quomo Shrine",
+        "title_chs": "托·库摩神庙",
+        "id": "Dungeon118",
+        "coordinate": [
+            -4022.127197265625,
+            -3711.696533203125
+        ]
+    },
+    {
+        "title_eng": "Sha Warvo Shrine",
+        "title_chs": "夏·塔瓦神庙",
+        "id": "Dungeon053",
+        "coordinate": [
+            -3822.2373046875,
+            -2206.895751953125
+        ]
+    },
+    {
+        "title_eng": "Shada Naw Shrine",
+        "title_chs": "夏达·阿达神庙",
+        "id": "Dungeon046",
+        "coordinate": [
+            -2998.30517578125,
+            -3220.63525390625
+        ]
+    },
+    {
+        "title_eng": "Rok Uwog Shrine",
+        "title_chs": "拉·库阿神庙",
+        "id": "Dungeon018",
+        "coordinate": [
+            -2377.0166015625,
+            -3224.610107421875
+        ]
+    },
+    {
+        "title_eng": "Lanno Kooh Shrine",
+        "title_chs": "拉诺·库席神庙",
+        "id": "Dungeon104",
+        "coordinate": [
+            -2636.7451171875,
+            -2061.288330078125
+        ]
+    },
+    {
+        "title_eng": "Sha Gehma Shrine",
+        "title_chs": "夏·格玛神庙",
+        "id": "Dungeon062",
+        "coordinate": [
+            -1672.3563232421875,
+            -3759.0283203125
+        ]
+    },
+    {
+        "title_eng": "Goma Asaagh Shrine",
+        "title_chs": "迦奥玛·阿萨神庙",
+        "id": "Dungeon086",
+        "coordinate": [
+            -2793.2744140625,
+            -2882.06298828125
+        ]
+    },
+    {
+        "title_eng": "Rin Oyaa Shrine",
+        "title_chs": "利·摩纳神庙",
+        "id": "Dungeon042",
+        "coordinate": [
+            -1720.388916015625,
+            -2554.625732421875
+        ]
+    },
+    {
+        "title_eng": "Gee Ha'rah Shrine",
+        "title_chs": "诺基·米席神庙",
+        "id": "Dungeon052",
+        "coordinate": [
+            -2380.418701171875,
+            -2255.404296875
+        ]
+    },
+    {
+        "title_eng": "Rona Kachta Shrine",
+        "title_chs": "罗纳·卡塔神庙",
+        "id": "Dungeon115",
+        "coordinate": [
+            -1088.799560546875,
+            -2660.744384765625
+        ]
+    },
+    {
+        "title_eng": "Qaza Tokki Shrine",
+        "title_chs": "卡扎·托基神庙",
+        "id": "Dungeon116",
+        "coordinate": [
+            -821.5,
+            -3535
+        ]
+    },
+    {
+        "title_eng": "Ketoh Wawai Shrine",
+        "title_chs": "基托·瓦瓦伊神庙",
+        "id": "Dungeon108",
+        "coordinate": [
+            284.3999938964844,
+            -3119.60009765625
+        ]
+    },
+    {
+        "title_eng": "Daag Chokah Shrine",
+        "title_chs": "达·乔卡席神庙",
+        "id": "Dungeon098",
+        "coordinate": [
+            -26.080352783203125,
+            -2457.68798828125
+        ]
+    },
+    {
+        "title_eng": "Kuhn Sidajj Shrine",
+        "title_chs": "库恩·希达吉神庙",
+        "id": "Dungeon095",
+        "coordinate": [
+            18.44451904296875,
+            -1943.7041015625
+        ]
+    },
+    {
+        "title_eng": "Keo Ruug Shrine",
+        "title_chs": "基耀·乌神庙",
+        "id": "Dungeon022",
+        "coordinate": [
+            470.9549255371094,
+            -2167.8173828125
+        ]
+    },
+    {
+        "title_eng": "Daqa Koh Shrine",
+        "title_chs": "达卡·卡神庙",
+        "id": "Dungeon064",
+        "coordinate": [
+            2064.97265625,
+            -2327.87353515625
+        ]
+    },
+    {
+        "title_eng": "Maag Halan Shrine",
+        "title_chs": "玛姆·拉诺神庙",
+        "id": "Dungeon106",
+        "coordinate": [
+            836.6337890625,
+            -2418.811279296875
+        ]
+    },
+    {
+        "title_eng": "Shora Hah Shrine",
+        "title_chs": "晓拉·哈神庙",
+        "id": "Dungeon028",
+        "coordinate": [
+            1536.2091064453125,
+            -3117.4677734375
+        ]
+    },
+    {
+        "title_eng": "Shae Mo'sah Shrine",
+        "title_chs": "希摩·依托塞神庙",
+        "id": "Dungeon026",
+        "coordinate": [
+            1756.57080078125,
+            -2561.701171875
+        ]
+    },
+    {
+        "title_eng": "Kayra Mah Shrine",
+        "title_chs": "克哈·拉玛神庙",
+        "id": "Dungeon025",
+        "coordinate": [
+            2075.823486328125,
+            -2039.718017578125
+        ]
+    },
+    {
+        "title_eng": "Ritaag Zumo Shrine",
+        "title_chs": "利塔·兹摩神庙",
+        "id": "Dungeon109",
+        "coordinate": [
+            4525.0400390625,
+            -2128.392822265625
+        ]
+    },
+    {
+        "title_eng": "Katosa Aug Shrine",
+        "title_chs": "卡茨·托萨神庙",
+        "id": "Dungeon013",
+        "coordinate": [
+            4294.9013671875,
+            -2729.875
+        ]
+    },
+    {
+        "title_eng": "Zuna Kai Shrine",
+        "title_chs": "兹纳·卡伊神庙",
+        "id": "Dungeon102",
+        "coordinate": [
+            3324.085205078125,
+            -3421.369140625
+        ]
+    },
+    {
+        "title_eng": "Gorae Torr Shrine",
+        "title_chs": "古·阿齐托神庙",
+        "id": "Dungeon091",
+        "coordinate": [
+            2662.70703125,
+            -3457.20703125
+        ]
+    },
+    {
+        "title_eng": "Tu Ka'loh Shrine",
+        "title_chs": "图·卡罗神庙",
+        "id": "Dungeon105",
+        "coordinate": [
+            4655,
+            -3709
+        ]
+    },
+    {
+        "title_eng": "Tutsuwa Nima Shrine",
+        "title_chs": "茨茨阿·尼玛神庙",
+        "id": "Dungeon084",
+        "coordinate": [
+            3777.255126953125,
+            -2704.0693359375
+        ]
+    },
+    {
+        "title_eng": "Mezza Lo Shrine",
+        "title_chs": "米兹·耀神庙",
+        "id": "Dungeon024",
+        "coordinate": [
+            2621.619873046875,
+            379.23419189453125
+        ]
+    },
+    {
+        "title_eng": "Dow Na'eh Shrine",
+        "title_chs": "达乌·纳艾神庙",
+        "id": "Dungeon019",
+        "coordinate": [
+            2696.76806640625,
+            1333.0174560546875
+        ]
+    },
+    {
+        "title_eng": "Maka Rah Shrine",
+        "title_chs": "卡玛·拉席神庙",
+        "id": "Dungeon051",
+        "coordinate": [
+            -4058.83544921875,
+            -2508.257080078125
+        ]
+    },
+    {
+        "title_eng": "Kam Urog Shrine",
+        "title_chs": "卡姆·尤奥神庙",
+        "id": "Dungeon014",
+        "coordinate": [
+            2501.699951171875,
+            1495.5816650390625
+        ]
+    }
+]

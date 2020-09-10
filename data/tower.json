@@ -1,0 +1,77 @@
+[
+    {
+        "title_chs": "初始之塔",
+        "title_eng": "Great Plateau Tower",
+        "coordinate": [-560.03515625, 1694.86328125]
+    },
+    {
+        "title_chs": "森林之塔",
+        "title_eng": "Woodland Tower",
+        "coordinate": [883.88427734375, -1605.710205078125]
+    },
+    {
+        "title_chs": "双子山之塔",
+        "title_eng": "Dueling Peaks Tower",
+        "coordinate": [1016.77734375, 1714.08203125]
+    },
+    {
+        "title_chs": "阿卡莱之塔",
+        "title_eng": "Akkala Tower",
+        "coordinate": [3308.0, -1500.0999755859375]
+    },
+    {
+        "title_chs": "平原之塔",
+        "title_eng": "Central Tower",
+        "coordinate": [-788.6449584960938, 442.03057861328125]
+    },
+    {
+        "title_chs": "奥尔汀之塔",
+        "title_eng": "Eldin Tower",
+        "coordinate": [2174.1513671875, -1556.7811279296875]
+    },
+    {
+        "title_chs": "费罗尼之塔",
+        "title_eng": "Faron Tower",
+        "coordinate": [1331.203125, 3273.72265625]
+    },
+    {
+        "title_chs": "格鲁德之塔",
+        "title_eng": "Gerudo Tower",
+        "coordinate": [-3666.0, 1828.5999755859375]
+    },
+    {
+        "title_chs": "哈特诺之塔",
+        "title_eng": "Hateno Tower",
+        "coordinate": [2735.5, 2133.5]
+    },
+    {
+        "title_chs": "海布拉之塔",
+        "title_eng": "Hebra Tower",
+        "coordinate": [-2173.0, -2034.0]
+    },
+    {
+        "title_chs": "湖之塔",
+        "title_eng": "Lake Tower",
+        "coordinate": [-31.8155517578125, 2961.600830078125]
+    },
+    {
+        "title_chs": "拉聂尔之塔",
+        "title_eng": "Lanayru Tower",
+        "coordinate": [2258.0, -108.99996948242188]
+    },
+    {
+        "title_chs": "丘陵之塔",
+        "title_eng": "Ridgeland Tower",
+        "coordinate": [-1755.300048828125, -774.300048828125]
+    },
+    {
+        "title_chs": "塔邦挞之塔",
+        "title_eng": "Tabantha Tower",
+        "coordinate": [-3613.748291015625, -990.1647338867188]
+    },
+    {
+        "title_chs": "荒野之塔",
+        "title_eng": "Wasteland Tower",
+        "coordinate": [-2306.8359375, 2437.3203125]
+    }
+]
