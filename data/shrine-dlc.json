@@ -1,0 +1,146 @@
+[
+    {
+        "title_chs": "耀瓦卡·伊尔塔神庙",
+        "title_eng": "Yowaka Ita Shrine",
+        "id": "Dungeon120",
+        "coordinate": [
+            -941.8468017578125,
+            1671.74169921875
+        ]
+    },
+    {
+        "title_chs": "罗希塔·奇古神庙",
+        "title_eng": "Rohta Chigah Shrine",
+        "id": "Dungeon123",
+        "coordinate": [
+            -517.9490356445312,
+            1799.02392578125
+        ]
+    },
+    {
+        "title_chs": "露奈·科力巴神庙",
+        "title_eng": "Ruvo Korbah Shrine",
+        "id": "Dungeon135",
+        "coordinate": [
+            -833.5947265625,
+            2144.810546875
+        ]
+    },
+    {
+        "title_chs": "艾茨·科力玛神庙",
+        "title_eng": "Etsu Korima Shrine",
+        "id": "Dungeon122",
+        "coordinate": [
+            -1215.9742431640625,
+            2110.884521484375
+        ]
+    },
+    {
+        "title_chs": "基奥·达夫纳神庙",
+        "title_eng": "Kee Dafunia Shrine",
+        "id": "Dungeon125",
+        "coordinate": [
+            4934.23291015625,
+            -1002.050537109375
+        ]
+    },
+    {
+        "title_chs": "萨塔·卡达神庙",
+        "title_eng": "Sato Koda Shrine",
+        "id": "Dungeon124",
+        "coordinate": [
+            3103.6083984375,
+            -833.9618530273438
+        ]
+    },
+    {
+        "title_chs": "玛乌·艾鲁亚神庙",
+        "title_eng": "Mah Eliya Shrine",
+        "id": "Dungeon126",
+        "coordinate": [
+            3761.8720703125,
+            -645.5045166015625
+        ]
+    },
+    {
+        "title_chs": "希利特·古奥玛神庙",
+        "title_eng": "Shira Gomar Shrine",
+        "id": "Dungeon129",
+        "coordinate": [
+            -2377.081298828125,
+            -1383.91943359375
+        ]
+    },
+    {
+        "title_chs": "基哈·托乌萨神庙",
+        "title_eng": "Kiah Toza Shrine",
+        "id": "Dungeon128",
+        "coordinate": [
+            -2156.432373046875,
+            -3188.149658203125
+        ]
+    },
+    {
+        "title_chs": "诺伊艾·罗吉神庙",
+        "title_eng": "Noe Rajee Shrine",
+        "id": "Dungeon127",
+        "coordinate": [
+            -3821.00244140625,
+            -2310.520751953125
+        ]
+    },
+    {
+        "title_chs": "卡米拉·奥姆纳神庙",
+        "title_eng": "Kamia Omuna Shrine",
+        "id": "Dungeon130",
+        "coordinate": [
+            2129.3486328125,
+            -3228.66064453125
+        ]
+    },
+    {
+        "title_chs": "夏德·罗恩神庙",
+        "title_eng": "Sharo Lun Shrine",
+        "id": "Dungeon132",
+        "coordinate": [
+            2931.935546875,
+            -2418.7333984375
+        ]
+    },
+    {
+        "title_chs": "利诺·希米卡神庙",
+        "title_eng": "Rinu Honika Shrine",
+        "id": "Dungeon131",
+        "coordinate": [
+            2242.218505859375,
+            -1996.1873779296875
+        ]
+    },
+    {
+        "title_chs": "克贝·塔瓦神庙",
+        "title_eng": "Keive Tala Shrine",
+        "id": "Dungeon133",
+        "coordinate": [
+            -2340.23095703125,
+            3900.926513671875
+        ]
+    },
+    {
+        "title_chs": "塔塔卡玛·希米神庙",
+        "title_eng": "Takama Shiri Shrine",
+        "id": "Dungeon134",
+        "coordinate": [
+            -4894.4912109375,
+            2155.50146484375
+        ]
+    },
+    {
+        "title_chs": "基希罗特·摩神庙",
+        "title_eng": "Kihiro Moh Shrine",
+        "id": "Dungeon121",
+        "coordinate": [
+            -3392.15625,
+            1347.4669189453125
+        ]
+    }
+]
